@@ -1,0 +1,16 @@
+{
+  "name": "preentrega",
+  "version": "1.0.0",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maximiliano Lucardi",
+  "license": "ISC",
+  "description": "1er entrega back-end",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

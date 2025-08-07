@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1",
+    "status": true,
+    "title": "Remera oversize",
+    "description": "Remera de algodón peinado, talle único",
+    "code": "REM001",
+    "price": 3500,
+    "stock": 10,
+    "category": "Ropa",
+    "thumbnails": [
+      "img/remera1.png"
+    ]
+  }
+]
